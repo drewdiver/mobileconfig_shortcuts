@@ -8,6 +8,8 @@ The only caveat is the mcxToProfile-based Shortcuts. These require the PyObjC bi
 
 Note: These are available when right-clicking a config/plist -> "Quick Actions" (you may have to click "Customize" to enable each).
 
+![right click](right-click.png)
+
 ## Shortcut Links
 
 - [De-sign MobileConfig](https://www.icloud.com/shortcuts/bac8340b6883488587cb5df7d78e2a0b)
